@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">TriviaApp</string>
+
+    <!--Act Main-->
+    <string name="title_main">Welcome!</string>
+    <string name="hint_name">What is your name?</string>
+    <string name="btn_next">Next</string>
+    <string name="error_msg_name_is_required">Name is required</string>
+
+    <!--Act Que1-->
+    <string name="lbl_que_1">Who is the best cricketer in the world?</string>
+    <string name="lbl_que_opt_1">Sachin Tendulkar</string>
+    <string name="lbl_que_opt_2">Virat Kohali</string>
+    <string name="lbl_que_opt_3">Adam Gilchirst</string>
+    <string name="lbl_que_opt_4">Jacques Kallis</string>
+    <string name="msg_select_any_one">Select any one.</string>
+    <string name="error_msg_select_option">Please select option</string>
+
+    <!--Act Que2-->
+    <string name="lbl_que_2">What are the colors in the Indian national flag?</string>
+    <string name="lbl_que2_opt_1">White</string>
+    <string name="lbl_que2_opt_2">Yellow</string>
+    <string name="lbl_que2_opt_3">Orange</string>
+    <string name="lbl_que2_opt_4">Green</string>
+    <string name="msg_select_more_than_one">Select more than 1.</string>
+
+    <!--Act Summary-->
+    <string name="arg_hello_name">Hello %1$s,</string>
+    <string name="msg_here_are_the_ans_selected">Here are the answers selected:</string>
+    <string name="arg_answer">Answer: %1$s</string>
+    <string name="arg_answers">Answers: %1$s</string>
+    <string name="btn_finish">Finish</string>
+    <string name="btn_history">History</string>
+
+    <!--Item History-->
+    <string name="arg_game_date">GAME %1$d : %2$s</string>
+    <string name="arg_name">Name: %1$s</string>
+
 </resources>

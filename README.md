@@ -18,7 +18,7 @@ A test project to represent talent and knowledge
 ```xml
 The MIT License (MIT)
 
-Copyright (c) 2018 skydoves
+Copyright (c) 2018 TriviaApp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
